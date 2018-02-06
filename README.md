@@ -1,3 +1,4 @@
+![Bitmaker](https://github.com/johncarlolopez/bitmaker-reference/blob/master/bitmakerlogo.svg)
 # 01 - Reinforcing Exercises: API Calls
 ### Tuesday, Feb 6th
 
